@@ -22,5 +22,5 @@ python src/app.py
 
 访问 http://localhost:5000 使用应用。
 
-页面：
+### 页面效果：
 <img width="1255" height="906" alt="image" src="https://github.com/user-attachments/assets/db6ed5fb-bbbe-441c-a097-2f1ec363cf75" />
