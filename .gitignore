@@ -162,3 +162,12 @@ cython_debug/
 # temp files
 *.tmp
 *.temp
+
+# Exclude temp directory and specific PDF
+/temp/
+MSCNoviceManualforLinux.pdf
+
+# Exclude build directories and executables
+build/
+dist/
+*.exe
