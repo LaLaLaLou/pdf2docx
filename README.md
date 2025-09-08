@@ -7,6 +7,8 @@
 3. 支持用户选择转换的页码范围
 4. 可以打包成Windows可执行文件
 
+GitHub仓库地址: https://github.com/LaLaLaLou/pdf2docx
+
 ## 安装依赖
 
 ```bash
